@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey, I'm Aashi!
+
+Coding enthusiast interested in computer science, research, and iOS development. I am a Computer Science major at the University of Michigan - Ann Arbor College of Engineering, always looking for software engineering opportunities and projects! Visit my website: [] to learn more about my projects and courses!
+
+To get in touch:
+  - email me: aashim@umich.edu
+  - message me on LinkedIn!
 
 <!--
 **am3005/am3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

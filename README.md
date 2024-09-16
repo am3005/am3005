@@ -4,7 +4,7 @@ Coding enthusiast interested in computer science, research, and iOS development.
 
 To get in touch:
   - email me: aashim@umich.edu
-  - message me on LinkedIn!
+  - message me on LinkedIn: https://www.linkedin.com/in/aashi-mishra/
 
 <!--
 **am3005/am3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

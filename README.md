@@ -2,7 +2,7 @@
 
 Coding enthusiast interested in computer science, research, and iOS development. I am a Computer Science major at the University of Michigan - Ann Arbor College of Engineering, always looking for software engineering opportunities and projects! Visit my website to learn more about my projects and courses!
 
-Website: https://am3005.github.io/#home
+Website: https://am3005.github.io/
 
 To get in touch:
   - email me: aashim@umich.edu
